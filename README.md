@@ -7,9 +7,6 @@
 <a href="https://twitter.com/willeybraz" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-willeybraz-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
 </p>
 
 <!--
